@@ -1,0 +1,3 @@
+<templateSet group="output">
+  <template name="syso" value="System.out.println($END$);" description="" toReformat="false" toShortenFQNames="true" />
+</templateSet>
