@@ -1,0 +1,17 @@
+<application>
+  <component name="DefaultFont">
+    <option name="FONT_SIZE" value="16" />
+    <option name="FONT_FAMILY" value="KaiTi" />
+  </component>
+  <component name="EditorSettings">
+    <option name="USE_SOFT_WRAPS" value="" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern pattern="\btodo\b.*" />
+    <pattern pattern="\bfixme\b.*" />
+    <pattern pattern="\btodo_yangb\b.*" />
+    <filter name="YB">
+      <pattern index="2" />
+    </filter>
+  </component>
+</application>
