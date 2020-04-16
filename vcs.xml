@@ -6,6 +6,10 @@
           <option name="url" value="http://zjapl45" />
           <option name="userName" value="yangb" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://192.168.10.45" />
+          <option name="userName" value="523084685@qq.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
